@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a highly motivated software developer with over 2 years of experience, specializing in full-stack development and innovative solution-building. I recently completed an intensive Coding Traineeship with IT Career Switch, where I honed my skills across multiple programming languages and successfully delivered two real-world projects.
+My name is Awakhiwe (Awa) Khabo. I'm a highly motivated software developer with over 2 years of experience, specializing in full-stack development and innovative solution-building. I recently completed an intensive Coding Traineeship with IT Career Switch, where I honed my skills across multiple programming languages and successfully delivered two real-world projects.
 
 ### What I Can Do:
 1. **Full-Stack Development:** Proficient in front-end and back-end technologies, including HTML5, CSS3, JavaScript, jQuery, Bootstrap, React, NodeJS, and Flask.
